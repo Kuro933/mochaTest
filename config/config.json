@@ -1,0 +1,10 @@
+{
+    "path_status" : "../storage/status.json",
+    "path_mail" : "../storage/mail.json",
+    "path_lote" : "../storage",
+    "path_envios" : "../storage/envios.json",
+    "url_rabbit" : "http://localhost:15672",
+    "url_wa" : "http://localhost:9003",
+    "url_py": "http://localhost:14000",
+    "url_mail": "https://weblogin.muninqn.gov.ar/api/Mail"
+}
